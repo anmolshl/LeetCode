@@ -1,1 +1,6 @@
-CMakeLists.txt not found in /Users/anmolsingh/Documents/LeetCode
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/anmolsingh/Documents/LeetCode
+CMAKE_BUILD_TYPE = Debug
+C Flags = -g -Wall
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/anmolsingh/Documents/LeetCode/cmake-build-debug

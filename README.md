@@ -2,7 +2,11 @@
 
 LeetCode practice problems.
 
-**1** problems completed.
+**3** problems completed.
+
+[ ] Adding two numbers represented as linked lists
+[ ] Adding two numbers in a list that adds up to a target
+[ ] Produce all minimum height trees
 
 I aim to attempt all problems in **C++**.
 
